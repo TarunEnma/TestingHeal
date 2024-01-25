@@ -33,8 +33,8 @@
   gap: 4.8rem;
 }
 
-.ght:link,
-.ght:visited {
+.main-nav-link:link,
+.main-nav-link:visited {
   display: inline-block;
   text-decoration: none;
   color: #333;
@@ -43,21 +43,21 @@
   transition: all 0.3s;
 }
 
-.ght:hover,
-.ght:active {
+.main-nav-link:hover,
+.main-nav-linkt:active {
   color: #cf711f;
 }
 
-.ght.nav-cta:link,
-.ght.nav-cta:visited {
+.main-nav-link.nav-cta:link,
+.main-nav-link.nav-cta:visited {
   padding: 1.2rem 2.4rem;
   border-radius: 9px;
   color: #fff;
   background-color: #e67e22;
 }
 
-.ght.nav-cta:hover,
-.ght.nav-cta:active {
+.main-nav-link.nav-cta:hover,
+.main-nav-link.nav-cta:active {
   background-color: #cf711f;
 }
 
